@@ -14,6 +14,11 @@ namespace libCommon
 		{
 		}
 
+		/// <summary>
+		/// dscheck
+		/// </summary>
+		/// <param name="DS"></param>
+		/// <returns></returns>
 		public bool DScheck(DataSet DS)
 		{
 			bool flag;
